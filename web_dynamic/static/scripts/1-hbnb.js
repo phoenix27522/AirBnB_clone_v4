@@ -13,3 +13,4 @@ $(document).ready(function () {
       if (values.length === 0) $('.amenities h4').html('&nbsp;');
     });
   });
+  
